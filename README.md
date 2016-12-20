@@ -11,7 +11,7 @@ An [Ubuntu](https://www.ubuntu.com/) image built from [Docker Hub - Ubuntu](http
 ## Image Details
 - ubuntu 14.04.5
 - ruby (2.3.1p112 - 2016-04-26 revision 54768)
-- gem (2.6.7)
+- gem (2.6.8)
 - bundler (1.13.6)
 
 ## Ubuntu Dockerfile
