@@ -1,6 +1,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/patelify/ubuntu.svg)](https://hub.docker.com/r/patelify/ubuntu/)
 
-# patelify/ruby
+# patelify/ubuntu
 
 An [Ubuntu](https://www.ubuntu.com/) image built from [Docker Hub - Ubuntu](https://hub.docker.com/_/ubuntu/). More specifically 'ubuntu:14.04.5'.
 
